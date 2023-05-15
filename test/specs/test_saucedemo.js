@@ -115,6 +115,3 @@ describe('saucedemo.ro', () => {
     })
 
 })
-
-       // mai intai npm install   , apoi
-       //comanda ptr run: npx wdio run ./wdio.conf.js --spec test/specs/test_saucedemo.js
