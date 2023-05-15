@@ -1,5 +1,5 @@
 # Automation-WebDriveIO-Tests
-These are the tests made using the WebdriverIo tool:
+These are the tests made using the WebdriverIO tool:
 1. I should not login with incorrect credentials.
 2. I should login with correct credentials.
 3. I should logout after login.
